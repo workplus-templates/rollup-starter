@@ -1,0 +1,6 @@
+{
+    "name": "rollup-starter",
+    "description": "Sample project for packages built using rollup.",
+    "bash": ["npm install", "npm run build"],
+    "readme": "https://github.com/rollup/rollup-starter-project#readme"
+}
