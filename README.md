@@ -4,10 +4,10 @@
 
 ## 技术栈
 
-*Rollup
-*ES6
-*Babel
-*AVA
+* Rollup
+* ES6
+* Babel
+* AVA
 
 ## 安装
 
