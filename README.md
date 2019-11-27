@@ -1,4 +1,4 @@
-# rollup-starter
+# rollup-starter v2.0
 
 > Sample project for packages built using rollup.
 

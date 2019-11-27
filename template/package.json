@@ -1,6 +1,6 @@
 {
   "name": "<%= name %>",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "<%= description %>",
   "main": "lib/<%= name %>.js",
   "main:min": "lib/<%= name %>.min.js",
