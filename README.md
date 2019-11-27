@@ -6,7 +6,7 @@
 
 * Rollup
 * ES6
-* Babel
+* Babel7
 * AVA
 
 ## 安装
